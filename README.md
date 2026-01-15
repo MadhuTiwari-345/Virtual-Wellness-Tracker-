@@ -26,5 +26,43 @@ The project is built entirely in **Java** and structured as a standard Java appl
 
 
 
-## 📁 Project Structure
+##  Project Structure
 
+Virtual-Wellness-Tracker-/
+├── src/
+│ └── WellnessApp/ # Main application source code
+├── Resources/ # Supporting resources (if any)
+├── .classpath # Eclipse classpath config
+├── .project # Eclipse project config
+├── .settings/ # IDE settings
+├── .gitignore
+└── README.md
+
+
+
+
+##  Getting Started
+
+### Prerequisites
+- Java JDK (8 or higher recommended)
+- Eclipse IDE (or any Java-compatible IDE)
+
+### Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/MadhuTiwari-345/Virtual-Wellness-Tracker-.git
+
+2. **Open in Eclipse**
+
+   Open Eclipse
+
+   File → Import → Existing Projects into Workspace
+
+   Select the cloned folder
+
+3. **Run the Application**
+
+   Navigate to the main class inside src/WellnessApp
+
+   Right-click → Run as → Java Application
