@@ -90,7 +90,7 @@ Virtual-Wellness-Tracker-/
 
 ##  Future Improvements
 
-= Add GUI using JavaFX or Swing
+- Add GUI using JavaFX or Swing
 
 - Integrate database support
 
@@ -105,18 +105,19 @@ Virtual-Wellness-Tracker-/
 1. Fork the repository
 
 2. Create a new branch
+
+   git checkout -b feature/your-feature-.git
    
 3. Commit your changes
    
-  ```bash
-git checkout -b feature/your-feature
+   git commit -m "Add new feature"
 
 
-git commit -m "Add new feature"
+##  Author
 
-
-
-
+Madhu Tiwari
+GitHub: @MadhuTiwari-345
+LinkedIn: https://www.linkedin.com/in/madhu-tiwari-833ab1326/
 
 
 
