@@ -100,26 +100,21 @@ Virtual-Wellness-Tracker-/
 
 ##  Contributing
 
- Contributions are welcome!
+ **Contributions are welcome!**
 
- Fork the repository
+1. Fork the repository
 
- **Create a new branch**
-
+2. Create a new branch
+  ```bash
 git checkout -b feature/your-feature
-
- **Commit your changes**
+   
+3. Commit your changes
 
 git commit -m "Add new feature"
 
-Push and open a Pull Request
 
-##  License
 
-This project is open-source. You may add a license file (MIT recommended) if you plan to share or expand it publicly.
 
-##  Author
 
- Madhu Tiwari
- GitHub: @MadhuTiwari-345
- LinkedIn: https://www.linkedin.com/in/madhu-tiwari-833ab1326/
+
+
