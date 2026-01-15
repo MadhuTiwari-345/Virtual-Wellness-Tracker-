@@ -66,3 +66,60 @@ Virtual-Wellness-Tracker-/
    Navigate to the main class inside src/WellnessApp
 
    Right-click → Run as → Java Application
+
+
+##  Features (Current & Planned)
+
+ **Current**
+
+- Java project structure set up
+
+- Wellness application base module
+
+ **Planned**
+
+- User input for daily wellness activities
+
+- Habit tracking (sleep, exercise, hydration, etc.)
+
+- Console or GUI-based interaction
+
+- Data persistence
+
+- Reports & summaries
+
+##  Future Improvements
+
+= Add GUI using JavaFX or Swing
+
+- Integrate database support
+
+- Improve modularity and scalability
+
+- Add documentation and unit tests
+
+##  Contributing
+
+ Contributions are welcome!
+
+ Fork the repository
+
+ **Create a new branch**
+
+git checkout -b feature/your-feature
+
+ **Commit your changes**
+
+git commit -m "Add new feature"
+
+Push and open a Pull Request
+
+##  License
+
+This project is open-source. You may add a license file (MIT recommended) if you plan to share or expand it publicly.
+
+##  Author
+
+ Madhu Tiwari
+ GitHub: @MadhuTiwari-345
+ LinkedIn: https://www.linkedin.com/in/madhu-tiwari-833ab1326/
