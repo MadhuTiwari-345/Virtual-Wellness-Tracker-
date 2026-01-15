@@ -105,10 +105,12 @@ Virtual-Wellness-Tracker-/
 1. Fork the repository
 
 2. Create a new branch
-  ```bash
-git checkout -b feature/your-feature
    
 3. Commit your changes
+   
+  ```bash
+git checkout -b feature/your-feature
+
 
 git commit -m "Add new feature"
 
