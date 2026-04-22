@@ -1,6 +1,4 @@
 
-
-````markdown
 <!-- 🌊 Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff85a2&height=180&section=header&text=Virtual%20Wellness%20Tracker&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
