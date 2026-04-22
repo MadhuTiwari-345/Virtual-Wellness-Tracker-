@@ -4,7 +4,7 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00B894&center=true&vCenter=true&width=600&lines=Track+Your+Habits+💪;Build+Healthy+Lifestyle+🌿;Stay+Consistent+✨"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00ff9f&center=true&vCenter=true&width=600&lines=Track+Your+Habits+💪;Build+Healthy+Lifestyle+🌿;Stay+Consistent+✨"/>
 </p>
 
 ---
@@ -13,8 +13,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active-00b894?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Contributions-Welcome-00b894?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-00ff9f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-00ff9f?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/MadhuTiwari-345/Virtual-Wellness-Tracker-?style=for-the-badge"/>
   <img src="https://img.shields.io/github/forks/MadhuTiwari-345/Virtual-Wellness-Tracker-?style=for-the-badge"/>
 </p>
