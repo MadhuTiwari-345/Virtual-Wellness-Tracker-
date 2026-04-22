@@ -1,6 +1,6 @@
 
 <!-- 🌊 Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=180&section=header&text=Virtual%20Wellness%20Tracker&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9f&height=180&section=header&text=Virtual%20Wellness%20Tracker&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- ✨ Typing Animation -->
 <p align="center">
@@ -119,7 +119,7 @@ git clone https://github.com/MadhuTiwari-345/Virtual-Wellness-Tracker-.git
 ## 🤝 Contributing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-Welcome-00b894?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-00ff9f?style=for-the-badge"/>
 </p>
 
 1. Fork the repo
@@ -155,13 +155,15 @@ git commit -m "Added feature"
 ## 💖 Support
 
 ⭐ Star the repo
+
 🍴 Fork it
+
 📢 Share it
 
 ---
 
 <!-- 🌊 Wave Footer -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b894&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9f&height=120&section=footer"/>
 
 ---
